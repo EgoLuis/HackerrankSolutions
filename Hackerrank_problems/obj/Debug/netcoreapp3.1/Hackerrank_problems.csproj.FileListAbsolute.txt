@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\bin\Debug\netcoreapp3.1\Hackerrank_problems.exe
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\bin\Debug\netcoreapp3.1\Hackerrank_problems.deps.json
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\bin\Debug\netcoreapp3.1\Hackerrank_problems.runtimeconfig.json
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\bin\Debug\netcoreapp3.1\Hackerrank_problems.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\bin\Debug\netcoreapp3.1\Hackerrank_problems.dll
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\bin\Debug\netcoreapp3.1\Hackerrank_problems.pdb
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.dll
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.pdb
+C:\Users\Admin\Desktop\HACKERRANK\Hackerrank_problems\obj\Debug\netcoreapp3.1\Hackerrank_problems.genruntimeconfig.cache
