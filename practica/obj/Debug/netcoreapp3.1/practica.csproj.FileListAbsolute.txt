@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\HACKERRANK\practica\bin\Debug\netcoreapp3.1\practica.exe
+C:\Users\Admin\Desktop\HACKERRANK\practica\bin\Debug\netcoreapp3.1\practica.deps.json
+C:\Users\Admin\Desktop\HACKERRANK\practica\bin\Debug\netcoreapp3.1\practica.runtimeconfig.json
+C:\Users\Admin\Desktop\HACKERRANK\practica\bin\Debug\netcoreapp3.1\practica.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HACKERRANK\practica\bin\Debug\netcoreapp3.1\practica.dll
+C:\Users\Admin\Desktop\HACKERRANK\practica\bin\Debug\netcoreapp3.1\practica.pdb
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.dll
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.pdb
+C:\Users\Admin\Desktop\HACKERRANK\practica\obj\Debug\netcoreapp3.1\practica.genruntimeconfig.cache
