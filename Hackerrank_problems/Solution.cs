@@ -26,7 +26,7 @@ namespace Hackerrank_problems
             //BetweenTwoSets.BetweenTwoSetsApp();               14
             //BreakingTheRecords.BreakingTheRecordsApp();       15
             //SubarrayDivision.SubarrayDivisionApp();           16
-            DivisibleSumPairs.DivisibleSumPairsApp();
+            //DivisibleSumPairs.DivisibleSumPairsApp();         17
 
             //************PRACTICA JUNIOR**************
             //NumeroPrimo.NumeroPrimoApp();
