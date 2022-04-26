@@ -27,7 +27,7 @@ namespace Hackerrank_problems
             //BreakingTheRecords.BreakingTheRecordsApp();       15
             //SubarrayDivision.SubarrayDivisionApp();           16
             //DivisibleSumPairs.DivisibleSumPairsApp();         17
-            MigratoryBirds.MigratoryBirdsApp();
+            //MigratoryBirds.MigratoryBirdsApp();               18
 
             //************PRACTICA JUNIOR**************
             //NumeroPrimo.NumeroPrimoApp();
