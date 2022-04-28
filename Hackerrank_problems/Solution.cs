@@ -33,9 +33,11 @@ namespace Hackerrank_problems
             //SalesByMatch.SalesByMatchApp();                   21
             //DrawingBook.DrawingBookApp();                     22
             //CountingValleys.CountingValleysApp();             23
+            //ElectronicShop.ElectronicShopApp();               24
+            //CatsAndMouse.CatsAndMouseApp();                   25
+            //FormingMagicSquare.FormingMagicSquareApp();       26
 
 
-            //Comentario para la rama de prueba
 
             //************PRACTICA JUNIOR**************
             //NumeroPrimo.NumeroPrimoApp();
