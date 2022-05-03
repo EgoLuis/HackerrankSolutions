@@ -36,8 +36,9 @@ namespace Hackerrank_problems
             //ElectronicShop.ElectronicShopApp();               24
             //CatsAndMouse.CatsAndMouseApp();                   25
             //FormingMagicSquare.FormingMagicSquareApp();       26
-
-
+            //PickingNumbers.PickingNumbersApp();               27
+            //ClimbingTheLeaderboard.ClimbingTheLeaderboardApp();   28
+            //TheHurdleRace.TheHurdleRaceApp();                 29
 
             //************PRACTICA JUNIOR**************
             //NumeroPrimo.NumeroPrimoApp();
