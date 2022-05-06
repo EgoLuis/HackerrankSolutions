@@ -49,6 +49,8 @@ namespace Hackerrank_problems
             //Fibonacci.FibonacciApp();
             //CambioVariable.CambioVariableApp();
             //Factorial.FactorialApp();
+            //ContadorPalabras.ContadorPalabrasApp();
+            //IdentificaNumero.IdentificaNumeroApp();
         }
     }
 }
