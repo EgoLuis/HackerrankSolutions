@@ -42,9 +42,15 @@ namespace Hackerrank_problems
             //DesignerPDFViewer.DesignerPDFViewerApp();         30
             //UtopianTree.UtopianTreeApp();                     31 
             //AngryProfessor.AngryProfessorApp();               32
-            //BeautifulDays.BeautifulDaysApp();
-            //ViralAdvertising.ViralAdvertisingApp();
-            SaveThePrisoner.SaveThePrisonerApp();
+            //BeautifulDays.BeautifulDaysApp();                 33
+            //ViralAdvertising.ViralAdvertisingApp();           34
+            //SaveThePrisoner.SaveThePrisonerApp();             35         
+            //CircularArrayRotation.CircularArrayRotationApp(); 36
+            //SequenceEquation.SequenceEquationApp();           37
+            //JumpingOnClouds.JumpingOnCloudsApp();             38
+            //FindDigits.FindDigitsApp();                       39
+            //ExtraLongFactorials.ExtraLongFactorialsApp();     40
+
 
             //************PRACTICA JUNIOR**************
             //NumeroPrimo.NumeroPrimoApp();
